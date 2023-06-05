@@ -1,27 +1,31 @@
-<h1 align="center"> NLW - Space Time </h1>
+<h1 align="center">Ignite Feed</h1>
 
-<p align="center">
-  O NLW é um evento gratuito de programação na prática, feito para devs de todos os níveis, e está sua 12ª edição 
-</p>
+Projeto desenvolvido durante o primeiro módulo da [Trilha Ignite](https://www.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br/)
 
 ## 🖥️ Projeto
 
-<br/>
-<br/>
+<img src="./.github/preview.png" width="100%">
+
 <br/>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido durante o NLW-Spacetime da [Rocketseat](https://www.rocketseat.com.br/) na Trilha Ignite com as seguintes tecnologias:
+Nesse módulo, foi criado uma aplicação React utilizando o Vite e aprendi sobre os conceitos mais importantes do React, entre eles estão:
 
-<br/>
-<br/>
+- Componentização 
+- Propriedades 
+- Estados
+- Imutabilidade 
+- Hooks 
+
+Além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+
 <br/>
 
 ## 🏷️ Layout
 
 Você pode visualizar o layout do projeto através
-[desse link](https://www.figma.com/file/V9ZstoFrdxK6mV5ymJBoY7/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer?type=design&node-id=0%3A1&t=WoFcBoZi9Vo8d1HP-1).
+[desse link](https://www.figma.com/file/vmB9OCkDYfbF0HuKmwN2Eh/Ignite-Feed-(Community)-(Copy)?type=design&node-id=0%3A1&t=30Rvxi1vBPS0czG2-1).
 É necessário ter uma conta no [Figma](https://www.figma.com)
 
 ## 💬 Me encontre nas redes
