@@ -20,6 +20,8 @@ Nesse módulo, foi criado uma aplicação React utilizando o Vite e aprendi sobr
 
 Além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
 
+Você pode realizar o acesso da aplicação desenvolvida através [deste link](https://ignite-feed-jonasborges93.netlify.app/)
+
 <br/>
 
 ## 🏷️ Layout
