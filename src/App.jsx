@@ -11,8 +11,10 @@ function App() {
       <Header />
 
       <section className={styles.wrapper}>
-        <Sidebar />
-        <main></main>
+        <div className={styles.container}>
+          <Sidebar />
+          <main></main>
+        </div>
       </section>
     </>
       

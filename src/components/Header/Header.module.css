@@ -1,9 +1,16 @@
 .header{
   background-color: var(--gray-700);
+}
+.header > div {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1.25rem 0;
+}
+
+.container{
+  max-width: 70rem;
+  padding: 2rem 1.25rem;
+  margin: auto;
 }
 
 .header img{
