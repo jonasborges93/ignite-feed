@@ -28,12 +28,12 @@ html {
 }
 @media (max-width:1080px){
   html {
-    font-size: 93,75%; /*15px*/
+    font-size: 93.75%; /*15px*/
   }
 }
 @media (max-width:720px){
   html {
-    font-size: 87,5%; /*14px*/
+    font-size: 87.5%; /*14px*/
   }
 }
 
@@ -46,7 +46,8 @@ body{
 body,
 input,
 textarea,
-button{
+button,
+a{
   font-family: var(--font);
   font-weight: 400;
   font-size: 1rem;
