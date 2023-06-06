@@ -17,7 +17,10 @@
   --font: 'Roboto', sans-serif;
   --size-default: 16px;
 }
-
+:focus{
+  outline: transparent;
+  box-shadow: 0 0 0 2px var(--green-300);
+}
 *{
   margin: 0;
   padding: 0;
