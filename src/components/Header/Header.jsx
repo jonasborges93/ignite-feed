@@ -1,13 +1,13 @@
 import styles from './Header.module.css';
 
-import { Avatar } from '../Avatar/Avatar'
+import igniteLogo from '../../assets/ignite-logo.svg'
 
 
 export function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.container}>
-        <Avatar src="https://github.com/jonasborges93.png"/>
+        <img src={igniteLogo} />
         <strong>Ignite Feed</strong>
       </div>
     </header>

@@ -6,6 +6,12 @@
   align-items: flex-start;
 }
 
+@media (max-width:768px){
+  .wrapper > div{
+    grid-template-columns: 1fr;
+  }
+}
+
 .container{
   max-width: 70rem;
   padding: 2rem 1.25rem;
